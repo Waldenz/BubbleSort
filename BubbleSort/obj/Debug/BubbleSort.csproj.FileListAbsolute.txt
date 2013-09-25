@@ -1,0 +1,5 @@
+E:\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+E:\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+E:\BubbleSort\BubbleSort\obj\Debug\ResolveAssemblyReference.cache
+E:\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+E:\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
